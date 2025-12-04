@@ -7,9 +7,8 @@ const nextConfig = {
     },
     trailingSlash: true,
     reactStrictMode: true,
-    allowedDevOrigins: [
-        '192.168.1.84'
-    ]
+    // Disable source maps completely to avoid parsing errors
+    productionBrowserSourceMaps: false
 };
 
 module.exports = nextConfig;

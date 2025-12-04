@@ -49,17 +49,17 @@ sections:
         self:
           textAlign: center
     people:
-      - content/data/person2_henrik.json
-      - content/data/person3_jasmine.json
-      - content/data/person4_lo.json
-      - content/data/person5_emma.json
-      - content/data/person6_mila.json
-      - content/data/person7_thomas.json
-      - content/data/person8_achim.json
-      - content/data/person9_gabriel.json
-      - content/data/person10_helen.json
-      - content/data/person11_marija.json
-      - content/data/person12_carmen.json
+      - content/data/person2.json
+      - content/data/person3.json
+      - content/data/person4.json
+      - content/data/person5.json
+      - content/data/person6.json
+      - content/data/person7.json
+      - content/data/person8.json
+      - content/data/person9.json
+      - content/data/person10.json
+      - content/data/person11.json
+      - content/data/person12.json
     actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark

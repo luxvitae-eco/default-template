@@ -1,0 +1,37 @@
+{
+    "type": "Person",
+    "name": "Marija Horvat",
+    "role": "Regional Legal Coordinator",
+    "image": {
+        "url": "/images/team11.png",
+        "altText": "Marija Horvat",
+        "styles": {
+            "self": {
+                "borderRadius": "medium",
+                "margin": [
+                    "mb-8"
+                ]
+            }
+        },
+        "type": "ImageBlock"
+    },
+    "colors": "bg-light-fg-dark",
+    "elementId": null,
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-6",
+                "pb-6",
+                "pl-6",
+                "pr-6"
+            ],
+            "textAlign": "center",
+            "borderColor": "border-neutral",
+            "borderStyle": "solid",
+            "borderWidth": 0,
+            "borderRadius": "none",
+            "justifyContent": "center"
+        }
+    },
+    "bio": "Manages regional administrative and legal tasks, ensuring efficient and locally compliant transaction processes within specific geographic markets.\n"
+}

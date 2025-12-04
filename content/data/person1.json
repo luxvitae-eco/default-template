@@ -1,0 +1,36 @@
+{
+    "name": "Nuno Luciano",
+    "role": "Founder - Visionary",
+    "image": {
+        "url": "/images/team1.png",
+        "altText": "Nuno Luciano",
+        "styles": {
+            "self": {
+                "borderRadius": "medium",
+                "margin": [
+                    "mb-8"
+                ]
+            }
+        },
+        "type": "ImageBlock"
+    },
+    "colors": "bg-light-fg-dark",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-6",
+                "pb-6",
+                "pl-6",
+                "pr-6"
+            ],
+            "textAlign": "center",
+            "borderColor": "border-neutral",
+            "borderStyle": "solid",
+            "borderWidth": 0,
+            "borderRadius": "none",
+            "justifyContent": "center"
+        }
+    },
+    "type": "Person",
+    "bio": "The architectural visionary driving the platform's core philosophy and culture, ensuring all design and features authentically reflect sustainable principles."
+}

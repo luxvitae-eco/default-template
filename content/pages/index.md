@@ -179,7 +179,7 @@ sections:
         altText: Rangle logo
         elementId: ''
     elementId: ''
-    motion: static
+    motion: move-to-left
     colors: bg-light-fg-dark
     styles:
       self:
@@ -497,7 +497,7 @@ sections:
           Each model, from a cozy couple's retreat to a spacious family residence, is a canvas for your dreams, blending sustainable architecture with unparalleled comfort.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/design-336x224.jpg
           altText: Architectural Design
           styles:
             self:
@@ -530,7 +530,7 @@ sections:
           Connect with our exclusive network of rigorously vetted architects, skilled builders, and expert consultants, all committed to sustainable excellence and proven results.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/pro-336x224.jpg
           altText: Professional Network
           styles:
             self:
@@ -563,7 +563,7 @@ sections:
           We’ve gathered the most common questions we hear from homeowners, architects, and builders to bring clarity, confidence, and calm to your journey.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/faq-336x224.jpg
           altText: Frequently Asked Questions
           styles:
             self:

@@ -1,0 +1,37 @@
+{
+    "type": "Person",
+    "name": "Mila Weber",
+    "role": "Executive Business Partner",
+    "image": {
+        "url": "/images/team6.png",
+        "altText": "Mila Weber",
+        "styles": {
+            "self": {
+                "borderRadius": "medium",
+                "margin": [
+                    "mb-8"
+                ]
+            }
+        },
+        "type": "ImageBlock"
+    },
+    "colors": "bg-light-fg-dark",
+    "elementId": null,
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-6",
+                "pb-6",
+                "pl-6",
+                "pr-6"
+            ],
+            "textAlign": "center",
+            "borderColor": "border-neutral",
+            "borderStyle": "solid",
+            "borderWidth": 0,
+            "borderRadius": "none",
+            "justifyContent": "center"
+        }
+    },
+    "bio": "Orchestrates high-level strategic and operational support for the executive team, contributing key insights and driving critical internal processes.\n"
+}

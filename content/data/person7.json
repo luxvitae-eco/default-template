@@ -1,0 +1,37 @@
+{
+    "type": "Person",
+    "name": "Thomas Jansen",
+    "role": "VP - Head of Sales",
+    "image": {
+        "url": "/images/team7.png",
+        "altText": "Thomas Jansen",
+        "styles": {
+            "self": {
+                "borderRadius": "medium",
+                "margin": [
+                    "mb-8"
+                ]
+            }
+        },
+        "type": "ImageBlock"
+    },
+    "colors": "bg-light-fg-dark",
+    "elementId": null,
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-6",
+                "pb-6",
+                "pl-6",
+                "pr-6"
+            ],
+            "textAlign": "center",
+            "borderColor": "border-neutral",
+            "borderStyle": "solid",
+            "borderWidth": 0,
+            "borderRadius": "none",
+            "justifyContent": "center"
+        }
+    },
+    "bio": "Leads the sales organization, defining strategy and managing targets to achieve revenue goals and expand market adoption of the eco-home models.\n"
+}
