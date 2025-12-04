@@ -3,9 +3,9 @@ import { Model } from '@stackbit/types';
 export const PostLayout: Model = {
     type: 'page',
     name: 'PostLayout',
-    label: 'Post',
+    label: 'Article',
     labelField: 'title',
-    filePath: 'content/pages/blog/{slug}.md',
+    filePath: 'content/pages/article/{slug}.md',
     fieldGroups: [
         {
             name: 'thumbnail',

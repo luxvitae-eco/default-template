@@ -51,6 +51,7 @@ const components = {
     SelectFormControl: dynamic(() => import('./blocks/FormBlock/SelectFormControl')),
     TextareaFormControl: dynamic(() => import('./blocks/FormBlock/TextareaFormControl')),
     TextFormControl: dynamic(() => import('./blocks/FormBlock/TextFormControl')),
+    TitleBlock: dynamic(() => import('./blocks/TitleBlock')),
     VideoBlock: dynamic(() => import('./blocks/VideoBlock')),
     PageLayout: dynamic(() => import('./layouts/PageLayout')),
     PostLayout: dynamic(() => import('./layouts/PostLayout')),

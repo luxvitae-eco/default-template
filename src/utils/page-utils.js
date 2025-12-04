@@ -18,12 +18,12 @@ function getPageUrl(page) {
 
     // Check if this is an article post based on file path
     if (['PostLayout'].includes(page?.__metadata.modelName)) {
-        // If the page is in the article directory, use /article/ prefix instead of /blog/
+        // If the page is in the article directory, use /article/ prefix
         if (page.__metadata.id && page.__metadata.id.includes('content/pages/article/')) {
             return `/article${page.slug.startsWith('/') ? page.slug : `/${page.slug}`}`;
         }
-        // Otherwise use the default /blog/ prefix
-        return `/blog${page.slug.startsWith('/') ? page.slug : `/${page.slug}`}`;
+        // Otherwise use the default /article/ prefix (fallback)
+        return `/article${page.slug.startsWith('/') ? page.slug : `/${page.slug}`}`;
     }
 
     return page.slug.startsWith('/') ? page.slug : `/${page.slug}`;

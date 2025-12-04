@@ -5,9 +5,31 @@ import { getAlgoliaResults } from '@algolia/autocomplete-js';
 import '@algolia/autocomplete-theme-classic';
 import BaseAutoComplete from './BaseAutoComplete';
 
-const searchClient = algoliasearch(ALGOLIA_APP_ID, ALGOLIA_SEARCH_API_KEY);
+// Create search client lazily and only when needed
+let searchClient = null;
+
+function getSearchClient() {
+    // Return early if Algolia is not configured
+    if (!ALGOLIA_APP_ID || !ALGOLIA_SEARCH_API_KEY) {
+        return null;
+    }
+
+    if (!searchClient) {
+        searchClient = algoliasearch(ALGOLIA_APP_ID, ALGOLIA_SEARCH_API_KEY);
+    }
+    return searchClient;
+}
 
 export default function AutoCompletePosts() {
+    // Check if Algolia is properly configured
+    const client = getSearchClient();
+
+    // If Algolia is not configured, render nothing or a fallback
+    if (!client) {
+        console.warn('Algolia is not properly configured. Please check your environment variables.');
+        return null;
+    }
+
     return (
         <BaseAutoComplete
             openOnFocus={true}
@@ -17,7 +39,7 @@ export default function AutoCompletePosts() {
                     sourceId: 'posts',
                     getItems() {
                         return getAlgoliaResults({
-                            searchClient,
+                            searchClient: client,
                             queries: [
                                 {
                                     indexName: buildIndexName(),

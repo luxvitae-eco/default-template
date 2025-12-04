@@ -37,12 +37,21 @@ export const config = defineStackbitConfig({
                 switch (document.modelName) {
                     case 'PostFeedLayout':
                         return {
-                            urlPath: '/blog',
+                            urlPath: '/article',
                             document: document
                         };
                     case 'PostLayout':
+                        // Check if this is an article based on file path
+                        // Match the same pattern used in getPageUrl function
+                        if (document.id?.includes('content/pages/article/')) {
+                            return {
+                                urlPath: `/article/${slug}`,
+                                document: document
+                            };
+                        }
+                        // Otherwise treat as article (fallback)
                         return {
-                            urlPath: `/blog/${slug}`,
+                            urlPath: `/article/${slug}`,
                             document: document
                         };
                     default:

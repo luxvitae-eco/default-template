@@ -46,9 +46,16 @@ function renderSections(sections: any[], fieldName: string, enableAnnotations: b
     return (
         <div {...(enableAnnotations && { 'data-sb-field-path': fieldName })}>
             {sections.map((section, index) => {
+                // Check if section has proper metadata
+                if (!section || !section.__metadata || !section.__metadata.modelName) {
+                    console.warn(`Section at index ${index} is missing metadata or modelName`, section);
+                    return null;
+                }
+
                 const Component = getComponent(section.__metadata.modelName);
                 if (!Component) {
-                    throw new Error(`no component matching the page section's model name: ${section.__metadata.modelName}`);
+                    console.warn(`No component matching the page section's model name: ${section.__metadata.modelName}`);
+                    return null;
                 }
                 return (
                     <Component
