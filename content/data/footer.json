@@ -1,0 +1,188 @@
+{
+    "logo": {
+        "url": "/images/logo-white.svg",
+        "altText": "Logo light",
+        "styles": {
+            "self": {
+                "margin": [
+                    "mx-2",
+                    "h-full",
+                    "w-8"
+                ]
+            }
+        },
+        "type": "ImageBlock"
+    },
+    "text": "Lux Vitae Eco House",
+    "primaryLinks": {
+        "title": "Eco-House",
+        "links": [
+            {
+                "label": "The Sanctuary Project",
+                "altText": "Eco-house sanctuary",
+                "url": "/eco-one-sanctuary",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "The Family Backyard",
+                "altText": "Eco-house for family",
+                "url": "/eco-two-family",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "The Grand Villa",
+                "altText": "Eco-house villa",
+                "url": "/eco-three-villa",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            }
+        ],
+        "type": "FooterLinksGroup"
+    },
+    "secondaryLinks": {
+        "title": "Services",
+        "links": [
+            {
+                "label": "Design",
+                "altText": "Design page",
+                "url": "/design",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Development",
+                "url": "/development",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Consulting",
+                "url": "/consulting",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Individual Professionals",
+                "url": "/professional",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "label": "Business Network",
+                "url": "/business-network",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            }
+        ],
+        "type": "FooterLinksGroup"
+    },
+    "tertiaryLinks": {
+        "title": "About",
+        "links": [
+            {
+                "label": "Our Vision",
+                "altText": "About Lux Vitae Team and Vision",
+                "url": "/vision",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            },
+            {
+                "type": "Link",
+                "label": "Our Team",
+                "altText": "",
+                "url": "/team",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "label": "Careers",
+                "altText": "careers page",
+                "url": "/careers",
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "type": "Link"
+            }
+        ],
+        "type": "FooterLinksGroup"
+    },
+    "socialLinks": [
+        {
+            "altText": "GitHub link",
+            "url": "https://github.com/luxvitae-eco",
+            "icon": "github",
+            "type": "Social"
+        },
+        {
+            "altText": "Twitter link",
+            "url": "https://twitter.com/luxvitae-eco",
+            "icon": "twitter",
+            "type": "Social"
+        },
+        {
+            "altText": "LinkedIn link",
+            "url": "https://www.linkedin.com/company/luxvitae-eco",
+            "icon": "linkedin",
+            "type": "Social"
+        },
+        {
+            "altText": "Email link",
+            "url": "/",
+            "icon": "mail",
+            "type": "Social"
+        }
+    ],
+    "legalLinks": [
+        {
+            "label": "Terms",
+            "url": "/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Privacy",
+            "url": "/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        }
+    ],
+    "copyrightText": "2025 Lux Vitae Eco — Real Estate Network\n",
+    "colors": "bg-dark-fg-light",
+    "type": "Footer"
+}

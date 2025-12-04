@@ -1,0 +1,192 @@
+{
+    "logo": {
+        "url": "/images/logo-dark.svg",
+        "altText": "Logo dark",
+        "styles": {
+            "self": {
+                "margin": [
+                    "mx-2",
+                    "h-full",
+                    "w-8"
+                ]
+            }
+        },
+        "type": "ImageBlock"
+    },
+    "primaryLinks": [
+        {
+            "label": "Home",
+            "url": "/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link",
+            "altText": "Lux Vitae Eco Homepage"
+        },
+        {
+            "label": "Articles",
+            "altText": "Articles",
+            "url": "/article",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "type": "SubNav",
+            "label": "Eco-House",
+            "altText": "Eco-Friendly House",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "The Sanctuary",
+                    "altText": "Echo House Sanctuary",
+                    "url": "/eco-one-sanctuary",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Family Backyard",
+                    "altText": "Eco-House The Family Backyard",
+                    "url": "/eco-two-family",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "The Grand Villa",
+                    "altText": "Eco-House Grand Villa",
+                    "url": "/eco-three-villa",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
+        },
+        {
+            "label": "Services",
+            "altText": "Services",
+            "links": [
+                {
+                    "label": "Design",
+                    "url": "/design",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link",
+                    "altText": "Design Services"
+                },
+                {
+                    "label": "Development",
+                    "url": "/development",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link",
+                    "altText": "Development Services"
+                },
+                {
+                    "label": "Consulting",
+                    "url": "/consulting",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link",
+                    "altText": "Consulting Services"
+                },
+                {
+                    "label": "Professionals",
+                    "url": "/professional",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link",
+                    "altText": "Individual Professionals"
+                },
+                {
+                    "label": "Business Network",
+                    "url": "/business-network",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link",
+                    "altText": "Business Network"
+                }
+            ],
+            "labelStyle": "secondary",
+            "type": "SubNav"
+        },
+        {
+            "type": "SubNav",
+            "label": "About",
+            "altText": "Lux Vitae Vision and Team",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Our Vision",
+                    "altText": "Lux Vitae Eco - Our Vision",
+                    "url": "/vision",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Our Team",
+                    "altText": "Lux Vitae - Our Team",
+                    "url": "/team",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Careers",
+                    "altText": "Lux Vitae Eco Open Positions",
+                    "url": "/careers",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
+        }
+    ],
+    "secondaryLinks": [
+        {
+            "label": "Contact Our Experts",
+            "altText": "Contact Our Experts",
+            "url": "#contact-us",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Button"
+        }
+    ],
+    "variant": "logo-left-primary-nav-centered",
+    "colors": "bg-light-fg-dark",
+    "styles": {
+        "self": {
+            "padding": [
+                "p-0"
+            ]
+        }
+    },
+    "type": "Header"
+}
