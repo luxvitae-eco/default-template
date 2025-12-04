@@ -8,13 +8,12 @@ sections:
       text: Join as a Professional
       color: text-dark
     subtitle: >-
-      A curated platform for architects, builders & sustainability experts who
-      build responsibly.
+      A platform for architects, builders and sustainability experts.
     text: >
       If you’re committed to ethical design, regenerative materials, and
-      collaborative excellence—you belong here. We connect vetted professionals
+      collaborative excellence, you belong here. We connect vetted professionals
       with aligned clients and partners, so you can focus on your best
-      work—without the noise.
+      work.
     actions:
       - type: Button
         label: Explore Membership

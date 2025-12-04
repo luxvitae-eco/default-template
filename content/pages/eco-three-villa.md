@@ -27,7 +27,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/house-front-pool.jpg
+      url: /images/hero-house-pool-720x520.jpg
       altText: Fun feature preview
       imageClassName: rounded-2xl
     badge:
