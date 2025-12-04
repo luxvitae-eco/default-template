@@ -18,7 +18,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: Explore Our Designs
+        label: Explore the Network
         url: /
         showIcon: true
         icon: arrowRight
@@ -264,6 +264,7 @@ sections:
       type: ImageBlock
       url: /images/design-720x460.jpg
       altText: Eco-friendly Home Design
+      imageClassName: 'rounded-2xl'
     badge:
       type: Badge
       label: Design Your Dream Home
@@ -299,6 +300,7 @@ sections:
       type: ImageBlock
       url: /images/development-720x460.jpg
       altText: Eco-friendly Home Development
+      imageClassName: 'rounded-2xl'
     badge:
       type: Badge
       label: Construction Excellence
@@ -333,6 +335,7 @@ sections:
       type: ImageBlock
       url: /images/consulting-720x460.jpg
       altText: Eco-friendly Home Consulting
+      imageClassName: 'rounded-2xl'
     badge:
       type: Badge
       label: Professional Support
@@ -359,13 +362,13 @@ sections:
       - type: FeaturedItem
         title: >-
           “The whole purpose of architecture is to make people happy, then we make it green at the same time because it's an ethical thing to do for the environment.”
-        tagline: Quote 1
+        tagline:
         subtitle: 'Ken Yeang'
         text: >-
           Yeang's research has focused on ecological architecture and masterplanning, particularly on the integration of built structures with natural systems.
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
+          url: /images/Ken_Yeang_720.jpg
           altText: Ken Yeang
           styles:
             self:
@@ -385,41 +388,14 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: >-
-          "We should demand the highest environmental standards possible in all our buildings to ensure that future homes and communities are sustainable."
-        tagline: Quote 2
-        subtitle: 'Margaret Beckett'
-        text: >-
-          Former UK Secretary of State for Environment, Food and Rural Affairs.
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder-dark.png
-          altText: Margaret Beckett
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: >-
           "Buildings, too, are children of the Earth and Sun."
-        tagline: Quote 3
+        tagline:
         subtitle: 'Frank Lloyd Wright'
         text: >-
           Wright changed the way we build and live. He is considered the “greatest American architect of all time.” This statement captures Wright's belief that architecture should be in sync with nature, using materials and designs that are inspired by and integrated with the earth and sun.
         image:
           type: ImageBlock
-          url: /images/img-placeholder-dark.png
+          url: /images/frank-lloyd-wright.jpg
           altText: Frank Lloyd Wright
           styles:
             self:
@@ -440,14 +416,14 @@ sections:
       - type: FeaturedItem
         title: >-
           “We do not inherit the earth from our ancestors; we borrow it from our children.”
-        tagline: Quote 4
+        tagline:
         subtitle: 'Native American Proverb'
         text: >-
           A reminder of the responsibility to be stewards of the environment for future generations.
         image:
           type: ImageBlock
-          url: /images/img-placeholder-dark.png
-          altText: Margaret Beckett
+          url: /images/native-indian-proverb.jpg
+          altText: Native American Proverb
           styles:
             self:
               borderRadius: full
@@ -610,6 +586,7 @@ sections:
     text: |-
       Please complete the following form. A dedicated representative will respond to your inquiry within 24 hours.
     actions: []
+    elementId: 'contact-us'
     media:
       type: FormBlock
       fields:

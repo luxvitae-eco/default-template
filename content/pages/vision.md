@@ -189,6 +189,7 @@ sections:
       type: ImageBlock
       url: \images\lux-vitae-network.jpg
       altText: Lux Vitae Eco Network
+      imageClassName: 'rounded-2xl'
     badge:
       type: Badge
       label: Work with us
