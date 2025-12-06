@@ -326,7 +326,7 @@ sections:
           Yeang's research has focused on ecological architecture and masterplanning, particularly on the integration of built structures with natural systems.
         image:
           type: ImageBlock
-          url: /images/Ken_Yeang_720.jpg
+          url: /images/quote-ken-yeang.jpg
           altText: Ken Yeang
           styles:
             self:
@@ -353,7 +353,7 @@ sections:
           Wright changed the way we build and live. He is considered the “greatest American architect of all time.” This statement captures Wright's belief that architecture should be in sync with nature, using materials and designs that are inspired by and integrated with the earth and sun.
         image:
           type: ImageBlock
-          url: /images/frank-lloyd-wright.jpg
+          url: /images/quote-frank-lloyd-wright.jpg
           altText: Frank Lloyd Wright
           styles:
             self:
@@ -380,7 +380,7 @@ sections:
           A reminder of the responsibility to be stewards of the environment for future generations.
         image:
           type: ImageBlock
-          url: /images/native-indian-proverb.jpg
+          url: /images/quote-native-proverb.jpg
           altText: Native American Proverb
           styles:
             self:
