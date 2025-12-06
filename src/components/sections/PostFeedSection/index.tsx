@@ -45,7 +45,7 @@ export default function PostFeedSection(props) {
                 {title && (
                     <TitleBlock
                         {...title}
-                        className={classNames('w-full', 'max-w-sectionBody', { 'mt-4': badge?.label })}
+                        className={classNames('w-full', { 'mt-4': badge?.label })}
                         {...(enableAnnotations && { 'data-sb-field-path': '.title' })}
                     />
                 )}
@@ -53,7 +53,6 @@ export default function PostFeedSection(props) {
                     <p
                         className={classNames(
                             'w-full',
-                            'max-w-sectionBody',
                             'text-lg',
                             'sm:text-2xl',
                             styles?.subtitle ? mapStyles(styles?.subtitle) : undefined,

@@ -11,7 +11,7 @@ export const PagedPostsSection: Model = {
             name: 'title',
             label: 'Title',
             required: false,
-            hidden: true,
+            hidden: false,
             localized: false,
             models: ['TitleBlock'],
             default: null
@@ -21,7 +21,7 @@ export const PagedPostsSection: Model = {
             name: 'subtitle',
             label: 'Subtitle',
             required: false,
-            hidden: true,
+            hidden: false,
             localized: false,
             default: null
         },

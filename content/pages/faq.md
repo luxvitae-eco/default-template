@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Frequent Asked Questions
+title: Lux Vitae Eco - Frequent Asked Questions
 sections:
   - type: CarouselSection
     items:

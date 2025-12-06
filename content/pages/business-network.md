@@ -19,13 +19,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
-      - type: Link
-        label: Learn more
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
     media:
       type: ImageBlock
       url: \images\lux-vitae-network.jpg
@@ -215,12 +208,12 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Build With People and Land
       color: text-dark
       styles:
         self:
           textAlign: center
-    subtitle: A network where sustainability isn’t a buzzword
+    subtitle: 'A network for those who build with earth, craft, and long-term care'
     items:
       - type: FeaturedItem
         title: Vetted for Excellence
@@ -310,13 +303,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    badge:
-      type: Badge
-      label: Why Professionals Choose Lux Vitae
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark

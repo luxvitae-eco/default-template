@@ -7,28 +7,19 @@ sections:
       type: TitleBlock
       text: Join as a Professional
       color: text-dark
-    subtitle: >-
-      A platform for architects, builders and sustainability experts.
+    subtitle: 'A platform for architects, builders and sustainability experts.'
     text: >
       If you’re committed to ethical design, regenerative materials, and
       collaborative excellence, you belong here. We connect vetted professionals
-      with aligned clients and partners, so you can focus on your best
-      work.
+      with aligned clients and partners, so you can focus on your best work.
     actions:
       - type: Button
-        label: Explore Membership
+        label: Apply to Join
         url: /
         icon: arrowRight
         iconPosition: right
         style: secondary
-        altText: Explore Membership
-      - type: Link
-        label: Apply to Join
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+        altText: Apply to Join
     media:
       type: ImageBlock
       url: \images\lux-vitae-network.jpg
@@ -45,20 +36,21 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Why Partner With Lux Vitae?
+      text: Partner Through Shared Practice
       color: text-primary
       styles:
         self:
           textAlign: center
-    subtitle: Key Benefits
+    subtitle: 'Your work uses local stone, reclaimed wood, and long-term care'
     items:
       - type: FeaturedItem
-        title: 'High-Intent, Aligned Projects'
-        tagline: Curated Opportunities
+        title: Projects That Align
+        tagline: Real Projects
         subtitle: ''
         text: >
-          Get matched with clients who value sustainability, budget
-          transparency, and your expertise—not just the lowest quote.
+          Connect with clients who specify local stone, passive cooling, or
+          retrofit experience—because they seek builders who already work this
+          way.
         image:
           type: ImageBlock
           url: \images\abstract-feature1.svg
@@ -78,12 +70,12 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Showcase Your Ethos
-        tagline: Professional Visibility
+        title: Share How You Build
+        tagline: Material Honesty
         subtitle: ''
         text: >
-          Highlight your certifications (Passive House, LEED, etc.), material
-          philosophy, and project impact in a trusted ecosystem.
+          Describe your use of regional materials, construction methods, and
+          project timelines—without renderings or certifications.
         image:
           type: ImageBlock
           url: \images\abstract-feature2.svg
@@ -103,12 +95,12 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Find Your Ideal Partners
-        tagline: Collaborative Network
-        subtitle: This is the item subtitle
+        title: Build Together
+        tagline: Craft Collaboration
+        subtitle: null
         text: >
-          Easily connect with complementary professionals—e.g., a heritage
-          architect + low-carbon builder—for complex projects.
+          Find stonemasons, timber framers, or landscape designers who work with
+          local resources and long-term care.
         image:
           type: ImageBlock
           url: \images\abstract-feature3.svg
@@ -128,12 +120,13 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Uphold Shared Principles
-        tagline: Standards That Elevate
-        subtitle: This is the item subtitle
+        title: A Shared Standard
+        tagline: Verified Practice
+        subtitle: null
         text: >
-          Our vetting ensures everyone meets baseline commitments: ethical
-          sourcing, clear communication, and ecological responsibility.
+          All collaborators demonstrate consistent use of local or reclaimed
+          materials, clear communication, and completed projects that reflect
+          long-term care.
         image:
           type: ImageBlock
           url: \images\abstract-feature1.svg
@@ -168,7 +161,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Growing Across Europe
+      text: Collaborate Across Europe
       color: text-primary
       styles:
         self:

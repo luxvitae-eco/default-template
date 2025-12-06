@@ -601,11 +601,11 @@
                             {
                                 "title": "“A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.”",
                                 "tagline": "Testimonial 1",
-                                "subtitle": "Maria Walters, Company",
+                                "subtitle": "Person Name, Company",
                                 "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.",
                                 "image": {
-                                    "url": "/images/person-placeholder-light.png",
-                                    "altText": "Maria Walters",
+                                    "url": "/images/person.jpg",
+                                    "altText": "Person Name",
                                     "elementId": null,
                                     "styles": {
                                         "self": {
@@ -639,7 +639,7 @@
                                 "subtitle": "Jane Doe, Company",
                                 "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.",
                                 "image": {
-                                    "url": "/images/img-placeholder-dark.png",
+                                    "url": "/images/person.jpg",
                                     "altText": "Jane Doe",
                                     "elementId": null,
                                     "styles": {

@@ -16,7 +16,7 @@ sections:
       culture, ensuring alldesign and features authentically reflect sustainable
       principles.
     media:
-      url: /images/team1.png
+      url: /images/team1.jpg
       altText: Nuno Luciano
       type: ImageBlock
       imageClassName: 'w-full md:max-w-96 rounded-lg'

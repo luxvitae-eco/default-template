@@ -1,38 +1,8 @@
 ---
 title: Articles
 slug: article
-numOfPostsPerPage: 8
-enableSearch: true
-topSections:
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Featured posts
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts:
-      - content/pages/article/case-study-1.md
-      - content/pages/article/case-study-2.md
-      - content/pages/article/case-study-3.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: big-list
-    colors: bg-light-fg-dark
-    hoverEffect: thin-underline
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
+numOfPostsPerPage: 6
+enableSearch: false
 styles:
   title:
     textAlign: center
@@ -44,11 +14,120 @@ seo:
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
-bottomSections: []
+topSections:
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: Where architecture meets responsibility
+        tagline: Architecture
+        subtitle: Thoughts and practices for building with integrity
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Live case studies and platform updates
+        tagline: In Practice
+        subtitle: Live case studies and platform updates
+        text: >-
+          We write not to impress, but to clarify. These are notes from the
+          field—on how we build, live, collaborate, and practical wisdom is the
+          standard. We share our thoughts and practices for building with
+          integrity.
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    title:
+      type: TitleBlock
+      text: Lux Vitae Eco Articles
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: >-
+      On ethical architecture, the art of living, and collaboration that
+      matters.
+bottomSections:
+  - type: RecentPostsSection
+    title:
+      type: TitleBlock
+      text: Recent posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    recentCount: 3
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    hoverEffect: thick-underline
+    styles:
+      self:
+        justifyContent: center
 postFeed:
   type: PagedPostsSection
-  title: null
-  subtitle: null
+  title:
+    type: TitleBlock
+    text: All Articles
+    color: text-dark
+    styles:
+      self:
+        textAlign: center
+  subtitle: >-
+    Browse all our articles on ethical architecture, sustainable living, and collaborative design.
+  styles:
+    subtitle:
+      textAlign: center
   showThumbnail: true
   showExcerpt: true
   showDate: true
@@ -57,5 +136,5 @@ postFeed:
   elementId: null
   variant: three-col-grid
   colors: bg-light-fg-dark
-  hoverEffect: move-up
+  hoverEffect: shadow
 ---
