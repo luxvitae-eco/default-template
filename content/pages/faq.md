@@ -215,13 +215,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-    actions:
-      - type: Button
-        label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
@@ -234,6 +228,61 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Ask a Question
+      color: text-dark
+    subtitle: Personal Response Guaranteed
+    text: |-
+      If our FAQs didn't cover your query, please contact us directly. We believe in dedicated service and personally commit to responding to all inquiries within 24 hours.
+    actions: []
+    media:
+      type: FormBlock
+      fields:
+        - type: TextFormControl
+          name: name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          isRequired: true
+          width: full
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
+        - type: TextareaFormControl
+          name: message
+          label: Message
+          hideLabel: true
+          placeholder: Your message
+          width: full
+      submitButton:
+        type: SubmitButtonFormControl
+        label: Submit
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+      elementId: contact-form
+      styles:
+        self:
+          padding:
+            - pt-6
+            - pb-6
+            - pl-6
+            - pr-6
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    badge:
+      type: Badge
+      label: Inquiry
+      color: text-primary
+    colors: bg-light-fg-dark
 slug: faq
 seo:
   type: Seo

@@ -138,6 +138,17 @@
                 "elementId": ""
             },
             {
+                "type": "Link",
+                "label": "Insights",
+                "altText": "",
+                "url": "/article",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
                 "label": "Careers",
                 "altText": "careers page",
                 "url": "/careers",
@@ -193,7 +204,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "2025 Lux Vitae Eco — Real Estate Network\n",
+    "copyrightText": "2026 Lux Vitae Eco — Real Estate Network\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

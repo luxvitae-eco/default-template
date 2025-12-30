@@ -14,7 +14,7 @@ sections:
       Whether you're a homeowner dreaming of a custom eco-retreat, or a
       developer scaling green housing, our curated network of local architects,
       builders, and sustainability experts ensures your project is built
-      responsibly, and without the usual headaches.
+      responsibly, with trust, confidence, and deep local knowledge.
     actions: []
     colors: bg-neutral-fg-dark
     styles:

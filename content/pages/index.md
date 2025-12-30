@@ -1,5 +1,5 @@
 ---
-title: Lux Vitae Eco - Sustainable Living Made Beautiful
+title: Lux Vitae Eco - Sustainable Architects & Builders — Verified by Practice
 slug: /
 sections:
   - type: GenericSection
@@ -26,7 +26,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero-house-pool-720x520.jpg
+      url: /images/lux-vitae-eco-home-courtyard-720x446.jpg
       altText: Lux Vitae Eco-friendly Home
       imageClassName: 'rounded-2xl'
     badge:
@@ -40,7 +40,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Our Mindful Vision
+      text: The Art of Ethical Practice
       color: text-dark
       styles:
         self:
@@ -51,11 +51,11 @@ sections:
         title: Design
         subtitle: Inspired Spaces, Rooted in Place
         text: >-
-          We create innovative design solutions that harmonize aesthetics and functionality within sustainable architecture.
+          We connect visionary architects to harmonize aesthetics, functionality, and regenerative principles.
         image:
           type: ImageBlock
           url: /images/icon1.svg
-          altText: Eco-friendly home design
+          altText: Eco-home design
           elementId: ''
           styles:
             self:
@@ -77,11 +77,11 @@ sections:
         title: Development
         subtitle: Precision-Built & Sustainable Integration
         text: >-
-          We lead eco-house developments from concept to completion with technical precision and sustainability at the core.
+          We lead project execution, ensuring technical precision and ethical sourcing, from concept to completion. 
         image:
           type: ImageBlock
           url: /images/icon2.svg
-          altText: Eco-friendly-home development
+          altText: Eco-home development
           elementId: ''
         actions: []
         colors: bg-neutralAlt-fg-dark
@@ -104,7 +104,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/icon3.svg
-          altText: Eco-friendly consulting
+          altText: Eco-home consulting
           elementId: ''
         actions: []
         colors: bg-neutralAlt-fg-dark
@@ -117,23 +117,6 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    badge:
-      type: Badge
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
@@ -199,20 +182,15 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Design Services
+      text: Design
       color: text-dark
-    subtitle: Innovative Design Concepts
+    subtitle: Rooted Architecture. Heritage-Inspired. Ecologically Responsive.
     text: >
-      Creative and innovative design solutions that blend aesthetics with functionality. Our design team specializes in sustainable architecture, interior design, and human-centered living to create spaces that inspire and perform.
+      We design homes that follow the land’s shape, use regional materials, and age gracefully with their inhabitants,
+      thoughtful plans, built-in adaptability, and long-term collaboration.
     actions:
-      - type: Button
-        label: Get started
-        url: /design
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
-        label: Design Process
+        label: Explore Design Philosophy
         url: /design
         showIcon: true
         icon: arrowRight
@@ -225,7 +203,7 @@ sections:
       imageClassName: 'rounded-2xl'
     badge:
       type: Badge
-      label: Design Your Dream Home
+      label: Bespoke Architecture
       color: text-primary
     colors: bg-light-fg-dark
     styles:
@@ -235,20 +213,14 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Development Services
+      text: Development
       color: text-dark
-    subtitle: End-to-end project management
+    subtitle: Local Builders. Regional Materials. Full Oversight.
     text: >
-      From concept to completion, our development team brings projects to life with precision and expertise. We handle construction management, project coordination, and quality assurance to ensure your vision becomes reality.
+      We manage construction from foundation to finish—working with vetted local builders, using stone and wood from nearby sources, and overseeing every phase with attention to craft, and serves daily life.
     actions:
-      - type: Button
-        label: Get started
-        url: /development
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
-        label: Development Process
+        label: View Process & Standards
         url: /development
         showIcon: true
         icon: arrowRight
@@ -276,14 +248,8 @@ sections:
     text: >
       Technical consulting and architecture advice for sustainable building projects. Expert guidance to navigate complex challenges and optimize your eco-friendly construction.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
-        label: Get Expert Guidance
+        label: Access Expertise Detail
         url: /
         showIcon: true
         icon: arrowRight
@@ -315,7 +281,7 @@ sections:
           - pb-3
           - pr-3
   - type: CarouselSection
-    subtitle: Our crafted designs provide a blueprint for a life in harmony with nature.
+    subtitle: Wisdom That Builds
     items:
       - type: FeaturedItem
         title: >-

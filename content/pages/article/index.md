@@ -18,13 +18,11 @@ topSections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Where architecture meets responsibility
-        tagline: Architecture
-        subtitle: Thoughts and practices for building with integrity
+        title: The Operational Standard
+        tagline: Platform
+        subtitle: Updates, Events, and Integrity in Action
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Insights into our foundational core principles, transparent operations, and milestones that define Lux Vitae's commitment to long-term value.
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
@@ -46,14 +44,11 @@ topSections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Live case studies and platform updates
+        title: Live case studies
         tagline: In Practice
-        subtitle: Live case studies and platform updates
+        subtitle: Practical Wisdom in Action
         text: >-
-          We write not to impress, but to clarify. These are notes from the
-          field—on how we build, live, collaborate, and practical wisdom is the
-          standard. We share our thoughts and practices for building with
-          integrity.
+          We write not to impress, but to clarify. These are notes from the field, on how we build, live, and collaborate, where practical wisdom is the standard.
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg

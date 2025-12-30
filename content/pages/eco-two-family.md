@@ -27,7 +27,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero-house-pool-720x520.jpg
+      url: /images/lux-vitae-eco-home-courtyard-720x446.jpg
       altText: Fun feature preview
       imageClassName: rounded-2xl
     badge:
@@ -164,6 +164,6 @@ seo:
   metaDescription: >-
     Discover Lux Vitae eco house models that inspire a life in harmony with
     nature.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/lux-vitae-eco-home-courtyard-720x446.jpg
   metaTags: []
 ---

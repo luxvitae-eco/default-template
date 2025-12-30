@@ -132,7 +132,8 @@
         }
 
         table {
-            @apply border border-current border-collapse text-left w-full;
+            @apply border-collapse text-left w-full;
+            border: 1px solid #747474;
         }
 
         caption {
@@ -143,7 +144,8 @@
 
         th,
         td {
-            @apply border-r border-b border-current;
+            @apply border;
+
             padding: 0.5em;
         }
 

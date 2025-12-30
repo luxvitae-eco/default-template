@@ -111,25 +111,32 @@ styles:
     flexDirection: col
 ---
 
-At Lux Vitae, we believe architecture should not dominate the land, but belong to it. Our name, drawn from the Latin for “light of life,” reflects a simple truth: buildings must nourish people, ecosystems, and communities alike. Rooted in authenticity, our designs fuse timeless wisdom with regenerative practice, because it’s a covenant with the earth.
+At Lux Vitae Eco, we believe architecture should not dominate the land, but belong to it. Our name, drawn from the Latin for “light of life,” reflects a simple truth: buildings must nourish people, ecosystems, and communities alike. Rooted in authenticity, our designs fuse timeless wisdom with regenerative practice, because it’s a covenant with the earth. 
 
-![Lux Vitae Eco - Architecture Mediterranean Hilltop](/images/lux-vitae-eco-mediterranean-hilltop.jpg)
-_[Photo: Lux Vitae Eco - Architecture Mediterranean Hilltop]_
+![Lux Vitae Eco - Architecture Mediterranean Hilltop](/images/lux-vitae-eco-home-tradition.jpg)
+_Image: Lux Vitae Eco - Architecture Mediterranean Hilltop_
 
 ### Bioclimatic Intelligence
 
-Inspired by Ken Yeang’s eco-skyscrapers, we embed environmental intelligence into every scale—from off-grid cabins to urban studios. Roofs harvest rainwater. Walls store thermal mass. Courtyards channel natural ventilation. But we go further: we prioritize local stone, reclaimed timber, and regional crafts. We reduce the carbon footprint and anchor the architecture in cultural memory. A hand-carved fireplace is much more than a functional object; it is a dialogue with generations of stonemasons.
+Today’s most thoughtful architecture draws from an ancient dialogue with nature, where sun, wind, and terrain have long guided how we build. Roofs harvest rainwater. Walls store thermal mass. Courtyards channel natural ventilation. But we go further: we prioritize local stone, reclaimed timber, and regional crafts. We reduce the carbon footprint and anchor the architecture in cultural memory. A hand-carved fireplace is much more than a functional object; it is a dialogue with generations of stonemasons.
 
-### Community as Co-Designer
+### Community as Co-Creator
 
-True sustainability thrives in community. We partner with local artisans, foresters, and elders, not as subcontractors, but as co-creators. In this, we echo Indigenous design philosophies: build with what the land offers, leave no wound, and ensure the next seven generations can thrive. Our projects aren’t just for people—they’re by them. The result? Spaces that feel lived-in from day one, because they carry the soul of the place.
+True sustainability thrives in community.
+We partner with local artisans, foresters, and elders as co-creators—honoring their knowledge, craft, and stewardship as essential to every design.
+
+In this, we echo Indigenous design philosophies:
+Build with what the land offers. Leave no wound. Ensure the next seven generations can thrive.
+
+Our projects belong to the people and the land that shape them.
+What emerges are spaces that feel lived-in from day one, carrying the soul of the place.
 
 ![Lux Vitae Eco - Architecture Mediterranean Hilltop](/images/lux-vitae-eco-home-courtyard.jpg)
-_[Photo: Lux Vitae Eco - Architecture Mediterranean Hilltop courtyard]_
+_Image: Lux Vitae Eco - Architecture Mediterranean Hilltop courtyard_
 
-### A Quiet Revolution in Construction
+### Building with Awareness
 
-The construction industry devours 40% of global resources. At Lux Vitae, we reject that model. Instead, we pioneer low-impact techniques: dry-stone walls that need no mortar, timber frames joined by traditional joinery, solar paths that double as communal trails. Our vision isn’t just “green buildings”—it’s regenerative habitats that give more than they take. We don’t chase LEED points; we chase resilience.
+The construction industry devours 40% of global resources. At Lux Vitae, we reject that model. Instead, we pioneer low-impact techniques: dry-stone walls that need no mortar, timber frames joined by traditional joinery, solar paths that double as communal trails. We build homes that belong to their land, their climate, and the generations who will live in them. Resilience is what grows when you build with honesty, local stone, and care.
 
 ### The Future is Rooted
 

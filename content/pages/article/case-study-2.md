@@ -1,14 +1,14 @@
 ---
 title: The Family Courtyard
 slug: case-study-2
-date: '2024-05-28'
+date: '2024-05-27'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/lux-vitae-eco-home-family-720x460.jpg
   altText: The Family Courtyard
   styles:
     self:
@@ -26,19 +26,19 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
-        tagline: This is the tagline
+      - title: Lux Vitae Eco
+        tagline: Architecture as ethical practice
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          Designing for Belonging. Building with Practical Wisdom. Through Eco Collaboration, we unite architects, builders, and developers who believe in the design for belonging: to place, to community, to future generations.
         image:
-          url: /images/telus-logo.svg
-          altText: Company logo
+          url: /images/logo-dark.svg
+          altText: Lux Vitae Eco
           styles:
             self:
               margin:
-                - ml-3
+                - ml-auto
+                - mr-1
+          imageClassName: h-24 w-24
           type: ImageBlock
         colors: bg-light-fg-dark
         styles:
@@ -54,6 +54,7 @@ bottomSections:
             borderWidth: 0
             borderRadius: none
             flexDirection: row
+            justifyContent: flex-end
         type: FeaturedItem
     variant: small-list
     colors: bg-light-fg-dark
@@ -70,15 +71,12 @@ bottomSections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-isFeatured: true
-colors: bg-light-fg-dark
+isFeatured: false
+colors: bg-neutral-fg-dark
 styles:
   self:
     padding:
-      - pt-5
-      - pl-5
-      - pb-5
-      - pr-5
+      - p-4
     textAlign: center
     borderColor: border-light
     borderStyle: none
@@ -86,18 +84,47 @@ styles:
     borderRadius: none
     flexDirection: col
 type: PostLayout
+author: content/data/person1.json
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+![Lux Vitae Eco - Architecture Mediterranean Courtyard](/images/lux-vitae-eco-home-courtyard-720x446.jpg)
+_Lux Vitae Eco - Architecture Mediterranean Family Courtyard_
 
-![](/images/img-placeholder.svg)
+### Project Overview
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+| Detail | Description |
+|--------|-------------|
+|Location|Mediterranean Hillside Atlantic Ocean Views|
+|Client|Young family with two children|
+|Size|160 sq. meters dwelling on a spacious plot|
+|Architectural Style|Modern and Traditional Fusion|
+|Core Values|Practical Wisdom, Ecological Stewardship|
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+### Design Philosophy: Rooted in Place
 
-> Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices.
->
-> _By Gordon Red - Director of IT_
+Designed for a young family seeking connection and resilience, The Family Courtyard sits on a sunny Mediterranean hillside, offering expansive views of the Atlantic Ocean. The architecture is deeply integrated with the local landscape, balancing modern environmental response with organic heritage.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+The dwelling covers 160 square meters, positioned strategically on its generous plot to maximize privacy and light. The central design element is the sheltered courtyard, which provides a safe, contained space for children to play and for the family to gather with friends and extended family.
+
+![Lux Vitae Eco - Architecture Mediterranean Courtyard Annex](/images/lux-vitae-eco-home-annex-720x460.jpg)
+_Lux Vitae Eco - Architecture Mediterranean Courtyard Annex_
+
+### Ethical Practice & Materials
+
+The house reflects a commitment to ethical practice through its material selection and passive design features:
+
+- **Local Sourcing** : Constructed using traditional local stone and wood, minimizing the environmental impact of transport and supporting regional economies.
+
+- **Passive Performance** : Optimized insulation and carefully positioned windows capture sunlight throughout the day while mature Mediterranean pine trees provide natural wind protection.
+
+### Regenerative Features
+
+The project extends beyond basic efficiency to actively regenerate the surrounding environment:
+
+- **Edible Landscape** : The surrounding garden features a small orchard of citrus and kiwi trees, alongside a vegetable square dedicated to growing tomatoes, salads, and herbs, promoting local food security and well-being.
+
+- **High-Performance Systems** : Modern technology provides long-term value via high-performant solar panels for renewable energy and a comprehensive rainwater recycling system for sustainable water management.
+
+### Result
+
+The Family Courtyard is a home built for the Art of Living, a high-performance, regenerative space where the family can thrive, supported by ethical construction and integrated natural systems.

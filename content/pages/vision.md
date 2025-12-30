@@ -6,14 +6,10 @@ sections:
     title:
       type: TitleBlock
       text: Our Vision
-    subtitle: Elevating Sustainable Living
+    subtitle: Built on Wisdom and Modern Responsibility
     text: >
-      We transform home construction to prove that sustainable living and
-      architectural elegance are inseparable. Our mission is to create dwellings
-      that go beyond efficiency and actively regenerate ecosystems, nurture
-      well-being, and inspire awe. We envision a future where high-performance
-      homes are accessible and integral to thriving local communities.  
-
+      We build homes with local stone, reclaimed wood, guided by ancestral knowledge and modern sustainable technologies. Our architecture nurtures ecosystems, supports community, and endures through honest materials and thoughtful design. We create high-performance homes rooted in place, crafted for well-being, and shared with future generations.
+      
 
       **Founding Philosophy**  
 
@@ -49,14 +45,14 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Shifting the paradigm for design and building.
+    subtitle: We’ve built a network where right people meet right projects.
     items:
       - type: FeaturedItem
         title: Homeowners & Private Clients
         tagline: null
-        subtitle: This is the item subtitle
+        subtitle: For Those Who Live
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          We connect you with architects and builders who prioritize timeless methods, aesthetics, and well-being. Our network ensures your project is built with modern sustainable practices, delivering control, clarity, and guaranteed success. 
         image:
           type: ImageBlock
           url: \images\abstract-feature1.svg
@@ -78,9 +74,9 @@ sections:
       - type: FeaturedItem
         title: 'Architects, Builders & Developers'
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: For Those Who Build
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          We connect verified professionals with those who value long-term care. Join a network that values verified practice—where your use of regional materials, retrofit experience, and long-term care is your credential.
         image:
           type: ImageBlock
           url: \images\abstract-feature2.svg

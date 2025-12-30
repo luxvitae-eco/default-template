@@ -1,19 +1,20 @@
 ---
 title: The Sanctuary
 slug: case-study-1
-date: '2023-05-27'
+date: '2024-05-28'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
-  altText: The Sanctuar
+  type: ImageBlock
+  url: /images/lux-vitae-eco-home-sanctuary-720x460.jpg
+  altText: Image alt text placeholder
+  elementId: ''
   styles:
     self:
-      borderRadius: large
-  type: ImageBlock
+      borderRadius: medium
 bottomSections:
   - title: Divider
     colors: bg-light-fg-dark
@@ -26,19 +27,19 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
-        tagline: This is the tagline
+      - title: Lux Vitae Eco
+        tagline: Architecture as ethical practice
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          Designing for Belonging. Building with Practical Wisdom. Through Eco Collaboration, we unite architects, builders, and developers who believe in the design for belonging: to place, to community, to future generations.
         image:
-          url: /images/telus-logo.svg
-          altText: Company logo
+          url: /images/logo-dark.svg
+          altText: Lux Vitae Eco
           styles:
             self:
               margin:
-                - ml-3
+                - ml-auto
+                - mr-1
+          imageClassName: h-24 w-24
           type: ImageBlock
         colors: bg-light-fg-dark
         styles:
@@ -54,6 +55,7 @@ bottomSections:
             borderWidth: 0
             borderRadius: none
             flexDirection: row
+            justifyContent: flex-end
         type: FeaturedItem
     variant: small-list
     colors: bg-light-fg-dark
@@ -70,15 +72,12 @@ bottomSections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-isFeatured: true
-colors: bg-light-fg-dark
+isFeatured: false
+colors: bg-neutral-fg-dark
 styles:
   self:
     padding:
-      - pt-5
-      - pl-5
-      - pb-5
-      - pr-5
+      - p-4
     textAlign: center
     borderColor: border-light
     borderStyle: none
@@ -86,16 +85,49 @@ styles:
     borderRadius: none
     flexDirection: col
 type: PostLayout
+author: content/data/person1.json
+seo:
+  type: Seo
+  metaTitle: The sanctuary
+  metaDescription: lux vitae  The sanctuary
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+![Lux Vitae Eco - Architecture Mediterranean Sanctuary](/images/lux-vitae-eco-house-sanctuary-garden.jpg)
+_Lux Vitae Eco - Architecture Mediterranean Sanctuary_
 
-> Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
->
-> _By Clara White - VP of Marketing_
+### Project Overview
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+| Detail | Description |
+|--------|-------------|
+| Location | Border of Andalusia and Algarve (Mediterranean coast) |
+| Client | Retired couple of two, prioritizing long-term accessibility and community. |
+| Size | Single-story dwellings with a flexible guest/studio unit. |
+| Architectural Style | Accessible, single-level design integrating local materials and **timeless methods**. |
+| Core Values | Proximity, Well-being, Accessible Aging, Climate-Responsive Design. |
 
-![](/images/img-placeholder.svg)
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+### Design Philosophy: Proximity and Independence
+
+While designed for a retired couple, The Sanctuary challenges the idea of conventional aging-in-place, which often leads to isolation. By concentrating on proximity and community, the project creates a unique, supportive environment.
+
+The homes form a cohesive and supportive Accessible Village. Since all units are single-story and linked by level, stair-free pathways, the design encourages residents to easily visit and gather, fostering a strong sense of community.
+
+The homes are designed for long-term comfort and safety. The single-level layout ensures maximum comfort and safety for the couple, regardless of their future physical condition, solidifying the home as a truly valuable and long-term asset.
+
+### Ethical Practice & Materials
+
+The site was specifically chosen for its natural defenses. It features Climate-Responsive Siting where an adjacent hillside protects the homes from high winds. Crucially, the short distance a small stream (or brook) that connects to a nearby natural river creates a naturally refreshing micro-climate, significantly reducing summer heat.
+
+Our commitment to Local Sourcing is tied directly to performance. The homes are constructed using regional materials and ancient methods, such as thick walls and appropriate shading, which work together to optimize thermal performance. This approach not only ensures a comfortable climate but also significantly reduces the environmental impact associated with material transport.
+
+### Regenerative Features
+
+A key Regenerative Feature is the inclusion of a highly Flexible Space. This versatile extra room or studio can effortlessly function as a home office, dedicated guest accommodation, or a dedicated space for an in-home carer, significantly extending the home's utility and contributing to the social resilience of the residents
+
+> This design incorporates a powerful element of Cross-Generational Appeal. While initially conceived for aging residents, the single-story layout makes it equally attractive as a first-choice home for young families seeking low-maintenance, accessible living. 
+
+This design choice demonstrates that a simple, open-plan, single-story layout is proof that design which prioritizes comfort and accessibility is not restrictive, but rather universally beneficial across all generations.
+
+### Results
+
+The Sanctuary is an exemplar of **accessible, community-focused architecture**. It delivers independent, long-term well-being for its residents within a beautiful, naturally climate-controlled environment, proving that ethical design is both humane and future-proof.

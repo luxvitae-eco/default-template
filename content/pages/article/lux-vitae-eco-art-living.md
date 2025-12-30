@@ -23,7 +23,7 @@ bottomSections:
   - items:
       - title: Nuno Luciano
         tagline: 'Founder, Lux Vitae Eco'
-        subtitle: Designing for Belonging.    Building with Practical Wisdom.
+        subtitle: Designing for Belonging. Building with Practical Wisdom.
         image:
           url: /images/team1.jpg
           altText: Nuno Luciano
@@ -117,23 +117,23 @@ Unlike the rigid grid of today’s suburbs, these places follow the land: narrow
 
 ![Lux Vitae Eco - Architecture Mediterranean Hilltop](/images/lux-vitae-eco-mediterranean-hilltop.jpg)
 
-### Organic Architecture, Reimagined
+### Mediterranean by Design
 
 
-Architects like Frank Lloyd Wright and Ken Yeang drew from this logic. They designed buildings that fit their surroundings and served the people who lived in them. But too often, that vision fades when profit comes first.
+For centuries, villages across the Mediterranean have grown from the land, shaped by local stone, earth, and wood. Their homes breathe with the climate, honor ancestral craft, and welcome daily life through sun-drenched courtyards and shaded terraces. This architecture emerges from ecosystem and tradition, embodying evolved sustainability. It offers quiet comfort, enduring resilience, and a profound sense of belonging.
+
+This is architecture designed to serve both place and people, attuned to landscape, climate, and daily life. Yet too many projects abandon this commitment the moment profit becomes the priority.
 
 We don’t want to mirror the worst of modern development.  
-Instead, we work with nature and people—on equal terms.  
+Instead, we work with nature and people on equal terms.  
 
-We don’t copy old villages because they look picturesque.  
-We learn from them because they follow the land’s shape, respect local ecosystems, and reflect a deep, practical intelligence.
+We learn from old villages because they follow the land’s shape, respect local ecosystems, and reflect a deep, practical intelligence.
 
 Our designs keep existing trees as living anchors.
 We build with local stone and wood that age honestly in the Mediterranean climate.
-Windows bring in daylight and cross-ventilation—
+Windows bring in daylight and cross-ventilation,
 and they face the pines, the sea, or the hillside,
 because living well means staying connected to where you are.
-
-This isn’t nostalgia. 
+ 
 It's practical wisdom, recognizing that architecture must be an ethical practice, not merely branding. 
 That is the definitive message Lux Vitae stands for.
